@@ -1,0 +1,7 @@
+Content:
+    -Artificial Intelligence in Context
+    -Fundamentals of AI and ML
+    -Project 1: AWS Educate Machine Learning Foundations Credly Badge
+    -Usinig Large Language Models (LLMs)
+    -Project 2: Party Rock App
+    -Real-world Applications of Generative AI
